@@ -58,7 +58,13 @@ Perhatikan bahwa kelas Ayam hanya memiliki satu method makan() yaitu method yang
 >Kelas Ayam.java
 ![Image of Gbr5.2.h](https://apipuro.del.ac.id/v1/file/b860fe35e479992bf815282f2ddc4de7)
 
+#### Latihan **[Poin 70]** Kelas Triangle
+Kelas diagram berikut ini terdiri dari 3 kelas yaitu kelas Triangle, kelasPoint dan kelas TriangleDriver. Kelas Triangle memiliki 3 variabel Point yaitu p1,p2 dan p3. Alas dan tinggi dari Triangle dapat diperoleh dari ketiga titik (asumsi: hanya untuk segitiga sama sisi). Method getArea() digunakan untuk menghitung luas segitiga sama sisi, sementara getCircumference() digunakan untuk menghitung keliling. 
+Silahkan kalian mengimplementasikan ketiga kelas tersebut (Triangle.java, Point.java, dan TriangleDriver.java) dalam bahasa pemrograman Java. Ketiga file yaitu. Isi dari kelas TriangleDriver.java silahkan kalian tentukan masing-masing, intinya kelas TriangleDriver.java dapat menginstansiasi minimal 2 segitiga sama sisi dan menampilkannya ke layar.
+Kode program yang kalian hasilkan silahkan diupload ke ecourse.
+NB. setiap nama kelas diakhiri dengan NIM kalian, contoh: Triangle_12321.java.
 
+![Image of Gbr5.2.i](https://apipuro.del.ac.id/v1/file/155a70d77382289d1a3a00dab3288c39)
 
 **Catatan Penting:**
 1. Anda hanya boleh mengubah kode program yang ada di src\main\java
